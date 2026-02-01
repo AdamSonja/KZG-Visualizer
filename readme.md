@@ -67,13 +67,6 @@ The UI shows:
 
 ---
 
-## What This Project Is NOT
-
-* ❌ Not a production-ready cryptographic library
-* ❌ Not a replacement for audited ZK libraries
-* ❌ Not a full SNARK system
-* ❌ Not visualizing real elliptic curve geometry
-
 This project is **educational + research-oriented**, not security-hardened.
 
 ---
@@ -219,7 +212,3 @@ This project serves as a **conceptual bridge** between algebraic intuition and r
 B.Tech CSE | Cryptography & Zero-Knowledge Proofs Enthusiast
 
 ---
-
-## Disclaimer
-
-⚠️ This project is for **educational and research purposes only**. Do not use this code in production or for securing real assets.
