@@ -1,0 +1,4 @@
+py-ecc
+numpy
+matplotlib
+streamlit
